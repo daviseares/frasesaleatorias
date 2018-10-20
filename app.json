@@ -1,11 +1,14 @@
 {
   "expo": {
-    "name": "numeroAl",
-    "description": "This project is really great.",
-    "slug": "numeroAl",
+    "name": "Frases Aleatórias",
+    "description": "App que exibe frases aleatórias de motivação.",
+    "slug": "frasesal",
     "privacy": "public",
     "sdkVersion": "30.0.0",
-    "platforms": ["ios", "android"],
+    "platforms": [
+      "ios",
+      "android"
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
