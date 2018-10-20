@@ -1,2 +1,2 @@
-# numeroaleatorio
-App em react native que gera números aleatórios
+# Frases Aleatórias
+App em react native que gera frases aleatórias motivacionais.
